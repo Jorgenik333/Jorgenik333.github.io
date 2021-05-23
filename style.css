@@ -1,0 +1,39 @@
+body {
+background-image: url("tlo.jpg");
+background-size: 100%;
+font-family: Times new roman;
+color: black;
+
+}
+.siusiak{
+	
+	text-align: center;
+}
+#div1
+{
+	float: left;
+	width: 15em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+#xd
+{
+float: left;
+ width: 10em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+img{
+margin-left: 500px;
+margin-right: auto;
+} 
+#zd1
+{
+margin-left: 300px;	
+	
+	
+}
